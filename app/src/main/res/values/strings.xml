@@ -1,0 +1,182 @@
+<resources>
+
+    <string name="app_name">Quiz App</string>
+    <!--Text for Title bar -->
+    <string name="title">Title</string>
+
+    <!-- Status text1 for score dashboard answered questions-->
+    <string name="goodResult1">Congratulations !!!\nYou passed the quiz ! \nYour Score is</string>
+    <string name="goodResult2">%. </string>
+
+    <!-- Status text1 for score dashboard answered questions-->
+    <string name="badResult1">Sorry !\nYou fail the quiz ! \nYour Score is</string>
+    <string name="badResult2">%. \nTry again. </string>
+
+
+    <!-- Hint text for EditView Question one answer input-->
+    <string name="zero">0</string>
+
+    <!-- Hint text for EditView answer input-->
+    <string name="questionHint">Enter your answer</string>
+
+
+    <!--Text for question one -->
+    <string name="questionOne">How many oscars did the Titanic movie get?</string>
+
+    <!--Text for question one, Answer-->
+    <string name="questionOneAnswer">11</string>
+
+
+    <!--Text for question two -->
+    <string name="questionTwo">What is the pseudonym of Allen Stewart Koningsberg?; </string>
+
+    <!--Text for question two, option A-->
+    <string name="questionTwoOptionA">Woody Allen</string>
+
+    <!--Text for question two, option B-->
+    <string name="questionTwoOptionB">Woody</string>
+
+    <!--Text for question two, option C-->
+    <string name="questionTwoOptionC">Allen</string>
+
+    <!--Text for question two, option D-->
+    <string name="questionTwoOptionD">Woody Allen</string>
+
+
+    <!--Text for question three-->
+    <string name="questionThree">How many Tomb Raider movies were made?</string>
+
+    <!--Text for question Three, option A-->
+    <string name="questionThreeOptionA">1</string>
+
+    <!--Text for question Three, option B-->
+    <string name="questionThreeOptionB">2</string>
+
+    <!--Text for question Three, option C-->
+    <string name="questionThreeOptionC">3</string>
+
+    <!--Text for question Three, option D-->
+    <string name="questionThreeOptionD">4</string>
+
+
+
+
+    <!--Text for question four -->
+    <string name="questionFour">What is the house number of the Simpsons?</string>
+
+    <!--Text for question Four, option A-->
+    <string name="questionFourOptionA">742</string>
+
+    <!--Text for question Four, option B-->
+    <string name="questionFourOptionB">419</string>
+
+    <!--Text for question Four, option C-->
+    <string name="questionFourOptionC">472</string>
+
+    <!--Text for question Four, option D-->
+    <string name="questionFourOptionD">274</string>
+
+
+    <!--Text for question five -->
+    <string name="questionFive">Who is the protagonist in the Last Action Hero film?</string>
+
+    <!--Text for question Five, option A-->
+    <string name="questionFiveOptionA">Arnold Chwarzenegger</string>
+
+    <!--Text for question Five, option B-->
+    <string name="questionFiveOptionB">Arnold Schwarzenegger</string>
+
+    <!--Text for question Five, option C-->
+    <string name="questionFiveOptionC">Arnold Schwarzenegger</string>
+
+    <!--Text for question Five, option D-->
+    <string name="questionFiveOptionD">Arnold Shwarzenegger</string>
+
+
+    <!--Text for question six-->
+    <string name="questionSix">Who is the director of the X-files?</string>
+
+    <!--Text for question Six, option A-->
+    <string name="questionSixOptionA">Colin Farell</string>
+
+    <!--Text for question Six, option B-->
+    <string name="questionSixOptionB">Rob Bowman</string>
+
+    <!--Text for question Six, option C-->
+    <string name="questionSixOptionC">Robert Redford</string>
+
+    <!--Text for question Six, option D-->
+    <string name="questionSixOptionD">Captain Picard</string>
+
+
+    <!--Text for question seven -->
+    <string name="questionSeven">What number is on Herbie the beatle?</string>
+
+    <!--Text for question Seven, option A-->
+    <string name="questionSevenOptionA">19</string>
+
+    <!--Text for question Seven, option B-->
+    <string name="questionSevenOptionB">01</string>
+
+    <!--Text for question Seven, option C-->
+    <string name="questionSevenOptionC">65</string>
+
+    <!--Text for question Seven, option D-->
+    <string name="questionSevenOptionD">53</string>
+
+
+    <!--Text for question eight-->
+    <string name="questionEight">What is the profession of Popeye?</string>
+
+    <!--Text for question Eight, option A-->
+    <string name="questionEightOptionA">Tailor</string>
+
+    <!--Text for question Eight, option B-->
+    <string name="questionEightOptionB">Seaman</string>
+
+    <!--Text for question Eight, option C-->
+    <string name="questionEightOptionC">Artist</string>
+
+    <!--Text for question Eight, option D-->
+    <string name="questionEightOptionD">Pirate</string>
+
+
+    <!--Text for question nine-->
+    <string name="questionNine">What is the name of the prison in the film The Rock?</string>
+
+    <!--Text for question Nine, option A-->
+    <string name="questionNineAnswer">Alcatraz</string>
+
+
+
+    <!--Text for question ten -->
+    <string name="questionTen">Which malformation did Marilyn Monroe have when she was born?</string>
+
+    <!--Text for question Ten, option A-->
+    <string name="questionTenOptionA">Too beautiful</string>
+
+    <!--Text for question Ten, option B-->
+    <string name="questionTenOptionB">Small skull</string>
+
+    <!--Text for question Ten, option C-->
+    <string name="questionTenOptionC">Six toes</string>
+
+    <!--Text for question Ten, option D-->
+    <string name="questionTenOptionD">Nothing</string>
+
+    <!--Text for Control panel - Submit and Reset button -->
+    <string name="submit">Submit</string>
+    <string name="reset">Reset</string>
+
+    <!--Text for Score Dashboard Header -->
+    <string name="score_dashboard">Score Dashboard</string>
+    <string name="name">%s</string>
+    <string name="info">%s</string>
+    <string name="start">Start</string>
+    <string name="name_login">Name</string>
+    <string name="app_logo">App Logo</string>
+    <string name="todo">TODO</string>
+
+
+</resources>
+
